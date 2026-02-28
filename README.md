@@ -1,4 +1,4 @@
-# Discord-Bot-1 — General-Purpose Discord Bot 🤖
+# Discord-Bot-1 — General-Purpose Discord Bot 
 
 ## Overview  
 Discord-Bot-1 is a versatile, general-purpose Discord bot written in Python. It provides a variety of functions to automate server tasks and improve Discord server management.  
